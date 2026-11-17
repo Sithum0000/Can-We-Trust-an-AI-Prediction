@@ -72,6 +72,38 @@ The model produced the following results:
 | Random Split | 24.903 | 42.069 | 0.944 |
 | Chronological Split | 44.991 | 69.557 | 0.900 |
 
+
+## 📈 Results and Visualizations
+
+### 1. MAE Comparison
+
+![MAE Comparison](mae_comparison.png)
+
+### 2. Final MAE Comparison
+
+![Final MAE Comparison](final_mae_comparison.png)
+
+### 3. RMSE Comparison
+
+![RMSE Comparison](rmse_comparison.png)
+
+### 4. R² Comparison
+
+![R2 Comparison](r2_comparison.png)
+
+### 5. Hourly Prediction Errors
+
+![Hourly Error Chart](hourly_error_chart.png)
+
+### 6. Time Period Comparison
+
+![Time Period MAE](time_period_mae.png)
+
+### 7. Walk Forward Evaluation
+
+![Walk Forward MAE](walk_forward_mae.png)
+
+
 ### Key Findings
 
 - The random split achieved lower prediction errors.
